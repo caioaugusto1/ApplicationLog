@@ -1,0 +1,13 @@
+E:\Projects\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.exe.config
+E:\Projects\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.exe
+E:\Projects\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.pdb
+E:\Projects\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.csprojResolveAssemblyReference.cache
+E:\Projects\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.csproj.CoreCompileInputs.cache
+E:\Projects\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.exe
+E:\Projects\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.pdb
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.exe.config
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.exe
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\bin\Debug\ApplicationLog.pdb
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.exe
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.pdb
+C:\Users\caio.pereira\Documents\Caio Augusto\ApplicationLog\ApplicationLog\obj\Debug\ApplicationLog.csprojResolveAssemblyReference.cache
