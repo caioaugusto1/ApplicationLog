@@ -1,6 +1,6 @@
-# Student Cultural Exchange
+# Your tasks day per Log
 
-This project gone to management your tasks day... You can written in Power Shell by Windows and after transfer to word doc 
+This project gone to management your tasks day log... You can written in Power Shell by Windows and after transfer to word doc 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/caioaugusto1/PowerShell_writeLog.git)
 
